@@ -19,5 +19,6 @@ public class Person {
        System.out.println("Person 2:"+ a2.getfullname());
  double b= (a1.age+a2.age)/2;
   System.out.println("Average Age:" + b);
+  //
     }
 }
